@@ -1,0 +1,1 @@
+ATTENDANCE_FIELDS = ["id", "student_id", "course_id", "subject", "total_periods", "attended_periods", "percentage"] 

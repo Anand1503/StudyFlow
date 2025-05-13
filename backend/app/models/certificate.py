@@ -1,0 +1,1 @@
+CERTIFICATE_FIELDS = ["id", "student_id", "title", "provider", "duration", "file_path"] 

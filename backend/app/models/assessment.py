@@ -1,0 +1,1 @@
+ASSESSMENT_FIELDS = ["id", "student_id", "course_id", "subject", "title", "description", "deadline", "submitted", "file_path"] 

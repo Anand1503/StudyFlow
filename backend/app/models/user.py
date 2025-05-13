@@ -1,0 +1,1 @@
+USER_FIELDS = ["id", "roll_number", "full_name", "degree", "branch", "year", "cgpa", "hashed_password"] 
